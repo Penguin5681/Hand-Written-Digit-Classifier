@@ -26,9 +26,9 @@
    cd Hand-Written-Digit-Classifier
    ```
 
-2. Install dependencies:
+2. Install packages:
    ```bash
-   pip install -r requirements.txt
+   pip install opencv-python tensorflow keras matplotplb
    ```
 
 3. Run the script:
