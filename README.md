@@ -22,7 +22,7 @@
 #### Instructions:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Hand-Written-Digit-Classifier.git
+   git clone https://github.com/Penguin5681/Hand-Written-Digit-Classifier.git
    cd Hand-Written-Digit-Classifier
    ```
 
